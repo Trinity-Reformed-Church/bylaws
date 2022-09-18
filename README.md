@@ -1,10 +1,5 @@
-# Title of an Empty Book
+# Trinity Reformed Church Bylaws
 
-## Warhorn Classics
+Available online at:
 
-## 2021
-
-This book is a template for starting new Warhorn Classics book projects. It also contains some brief instructions for how to get started.
-
-Available for your reading pleasure here:
-https://warhornmedia.github.io/classics-empty-book
+https://bylaws.trinityreformed.org
